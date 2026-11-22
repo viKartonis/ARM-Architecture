@@ -36,5 +36,6 @@ The program registers.cpp was compiled with O0 and O2 flags, the difference is q
 ### Notes
 It is also seen how for example X8 register can hold different temporary values that change by the time.
 
-ISA guaranteers what operations processor can execute, memory access rules, supported data width.\n
+ISA guaranteers what operations processor can execute, memory access rules, supported data width.
+<br>
 ABI guaranteers how each specific register will be used, calling convention, alignments, paggings.
